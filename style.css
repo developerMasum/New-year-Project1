@@ -4,7 +4,7 @@
   font-family: "Work Sans", sans-serif;
 }
 .poster-container {
-  background-image: url("banner1.png");
+  background-image: url("images/banner1.png");
   height: 100vh;
   width: 100%;
   display: flex;
@@ -165,7 +165,7 @@
       #f15b22 0%,
       rgba(241, 91, 34, 0) 100%
     ),
-    url("watch.png");
+    url("images/watch.png");
   background-size: initial;
   background-repeat: no-repeat;
   /* height: 100vh; */
